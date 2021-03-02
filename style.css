@@ -54,6 +54,11 @@ h2 {
 	width: 200px;
 }
 
+.mail{
+	color: black;
+	text-decoration: none;
+}
+
 .info {
 	margin: 0px;
 	padding: 20px 0px 0px 0px;
